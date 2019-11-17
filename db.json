@@ -1,8 +1,6 @@
 {
-  "mensajeGrupo07":[
-    {
-      "msg" : "SERVICIO GRUPO XX",
+    "mensajeGrupo07":[{
+        "msg":  "SERVICIO GRUPO 07"
     }
-  ],
-  
+    ]
 }

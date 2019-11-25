@@ -2,5 +2,9 @@
     "mensajeGrupo07":[{
         "msg":  "SERVICIO GRUPO 07"
     }
-    ]
+    ],
+	"mensajeEliminado":[{
+		"msg": "Registro Eliminado"
+	}
+	]
 }

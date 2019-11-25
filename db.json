@@ -11,11 +11,11 @@
 		"msg": "El Estudiante se ha editado correctamente"
 	}
 	],
-	"mensajeErrorEdicion":[{
+	"mensajeErrorEditado":[{
 		"msg": "Se produjo un problema en la Edición"
 	}
 	],
-	"mensajeErrorEliminación":[{
+	"mensajeErrorEliminado":[{
 		"msg": "Se produjo un problema en la Eliminación"
 	}
 	]

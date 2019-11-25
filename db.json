@@ -4,7 +4,19 @@
     }
     ],
 	"mensajeEliminado":[{
-		"msg": "Registro Eliminado"
+		"msg": "El Estudiante se ha eliminado correctamente"
+	}
+	],
+	"mensajeEditado":[{
+		"msg": "El Estudiante se ha editado correctamente"
+	}
+	],
+	"mensajeErrorEdicion":[{
+		"msg": "Se produjo un problema en la Edición"
+	}
+	],
+	"mensajeErrorEliminación":[{
+		"msg": "Se produjo un problema en la Eliminación"
 	}
 	]
 }

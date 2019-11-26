@@ -19,10 +19,8 @@
 		"msg": "Se produjo un problema en la Eliminación"
 	}
 	],
-	"usuarios":[{
-        "id"		:  1,
-		"usuario"	: "admin",
-		"clave"		: "admin"
-    }
-    ]
+	"mensajeExamen":[{
+		"msg": "Examen Optativa III"
+	}
+	]
 }
